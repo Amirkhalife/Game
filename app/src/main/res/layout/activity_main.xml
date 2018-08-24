@@ -14,7 +14,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="Hello World!232"
         android:id="@+id/asqar1"
         android:layout_marginBottom="15dp"/>
     <ImageView
